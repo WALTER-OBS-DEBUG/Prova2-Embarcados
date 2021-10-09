@@ -1,9 +1,0 @@
-Processo de implementação de Hardware e Software é um projeto cooperativo 
-com ambiente heterogêneo, que consiste em especificações,
-projeto e sintese de sistemas que mesclam componentes de hardware e software,
-o tal processo também consiste em um balanceamento de reconfigurabilidade, 
-que é a migração hardware-software e desempenho software-hardware. Esse
-projeto cooperativo ajuda bastante em baixar custos e reduzir o time-to-market 
-(tempo para o mercado).
-
-
